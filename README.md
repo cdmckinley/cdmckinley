@@ -1,5 +1,5 @@
 # Hello there 👋
-To see more about myself and what I've accomplished,check out [cdmckinley.github.io](https://cdmckinley.github.io/) 😁
+To see more about myself and what I've accomplished,check out [mckinleycode.com](https://mckinleycode.com/) 😁
 
 <!--
 **cdmckinley/cdmckinley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
