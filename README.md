@@ -1,4 +1,4 @@
 # Hello there 👋
-To see more about myself and what I've accomplished, check out [mckinleycode.com](https://mckinleycode.com/) 😁
+My GitHub profiel is a work in progress 😁
 
 ### *Live long and prosper* 🖖
